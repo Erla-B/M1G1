@@ -79,10 +79,11 @@ img {
 .where__list {
     list-style-type: none;
     font-family: 'Cardo', serif;
-    text-align: left;
-    margin-left: 620px;
+    text-align: center;
     color: #e9e6dd;
     padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .where__list li {
